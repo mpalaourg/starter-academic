@@ -5,7 +5,7 @@ tags:
 - battery
 - battery monitor
 - battery information
-- BatterAapp
+- BatteryAapp
 - smartphone usage
 - energy drain prediction
 - machine learning
@@ -47,13 +47,14 @@ As part of my Thesis, I have developed the Android application BatteryApp, which
 - The model of the mobile and the android version.
 - The percentage remaining in the battery capacity.
 - The Timestamp of each sample.
+
 For a more detailed description check [here](https://github.com/mpalaourg/Thesis#raw-data-variables).
 [^1]: *Only if it is enabled, your location will NOT be logged.*
 
 ## **App usage**
 
 <div style="text-align: justify">
-<img src="https://github.com/mpalaourg/Thesis/blob/master/data/images/combined.gif" alt="app-usage" style="float: left">
+<img src="media/combined.gif" alt="app-usage" style="float: left">
 <p>
 BatteryApp <b>does not work</b> in the background, it collects data only when you activate it and there will be a notification in the Notification Shade the whole time you are using the app. To start a usage Session, open BatteryApp (e.g before you open YouTube or Instagram) and press the <u>START SESSION</u> button, with which BatteryApp will be minimized and data collection will begin. If you check your Notification Shade you should see a notification. To end the usage Session, return to BatteryApp and press the <u>END SESSION</u> button. The usage Sessions do not have to be long in duration, however, in the context of my Thesis, where the use of the battery is the main thing analyzed, the battery level must drop by at least 1% in each session in order to be of a greater value in the analysis. Finally, use the <u>Upload Button</u> to upload the files; uploading is not required after each use, as the Sessions are stored on the mobile and will be deleted after a successful upload.
 <ul>
