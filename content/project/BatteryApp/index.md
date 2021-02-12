@@ -2,9 +2,17 @@
 title: Thesis
 summary: Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques
 tags:
-- TODO
-- TODO
-date: TODO"2016-04-27T00:00:00Z"
+- battery
+- battery monitor
+- battery information
+- BatterAapp
+- smartphone usage
+- energy drain prediction
+- machine learning
+- xgboost
+- thesis
+- python
+date: "2016-04-27T00:00:00Z"
 
 image:
   caption: BatteryApp system architecture
@@ -26,7 +34,7 @@ As part of my Thesis, I have developed the Android application ([BatteryApp](htt
 - The unique ID that distinguishes you from other users.
 - The level, temperature, voltage, technology, status (charge/discharge), health (good/overheating) of the battery.
 - CPU usage.
-- If WiFi, Cellular Data, Bluetooth, Hotspot, GPS* of the mobile are activated.
+- If WiFi, Cellular Data, Bluetooth, Hotspot, GPS[^1] of the mobile are activated.
 - The available RAM.
 - The screen brightness level.
 - If the phone is interactive (Screen is turned on or off).
