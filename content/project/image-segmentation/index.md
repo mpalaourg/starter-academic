@@ -18,6 +18,7 @@ url_video: ""
 
 <div style="text-align: justify"> <p>
 The goal is to represent the input image as a fully connected and non-directional graph, and partitioned into multiple sets of segments that share some common characteristics such as color or intensity.
+
 The following techniques will be implemented:
 <ul>
 <li>Spectral Clustering.</li>
