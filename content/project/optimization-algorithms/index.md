@@ -39,7 +39,7 @@ Implementation of various optimization algorithms, for different test cases. Μo
   <ul>
   <li>Steepest Descent, with and without constraints.</li>
   </ul></li>
-<li>Genetic Algorithm for approaching an unknown -continuous- function[2-D].</li>
+<li>Genetic Algorithm for approaching an unknown continuous function [2-D].</li>
 </ul>
 
 </p> </div>

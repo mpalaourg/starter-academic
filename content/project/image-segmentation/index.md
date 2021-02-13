@@ -1,6 +1,6 @@
 ---
 title: Image Segmentation
-summary: Ιmplementations of basic image segmentation techniques.
+summary: Ιmplementation of basic image segmentation techniques.
 tags:
 - multimedia
 - MATLAB
