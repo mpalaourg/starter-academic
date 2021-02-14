@@ -7,7 +7,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 image:
-  caption: "Techniques comparison, where k: # of segments to be computed"
+  caption: "Results, where k: # of segments to be computed"
   focal_point: Smart
 
 url_code: "https://github.com/mpalaourg/DIP_Image_Segmentation"

@@ -4,6 +4,7 @@ summary: Exploration of different optimization algorithms.
 tags:
 - function minimum
 - function estimation
+- machine learning
 - MATLAB
 date: "2016-04-27T00:00:00Z"
 
@@ -39,7 +40,7 @@ Implementation of various optimization algorithms, for different test cases. Μo
   <ul>
   <li>Steepest Descent, with and without constraints.</li>
   </ul></li>
-<li>Genetic Algorithm for approaching an unknown continuous function [2-D].</li>
+<li>Genetic Algorithm: Approaching an unknown continuous function [2-D].</li>
 </ul>
 
 </p> </div>
