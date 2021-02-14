@@ -59,7 +59,7 @@ highlight_name: false
 ---
 
 <div style="text-align: justify"> <p>
-Hi there, my name is George Balaouras and I am curious about everything, especially Data Science, Machine and Deep Learning. Currently, I am part of [MKLab](https://mklab.iti.gr/) research team of [ITI/CERTH](https://www.iti.gr/iti/index.html), exploring automatic Video Summarization via Deep Learning techniques.
+Hi there, my name is George Balaouras and I am curious about everything, especially Data Science, Machine and Deep Learning. Currently, I am part of <a href="https://mklab.iti.gr/">MKLab</a> research team of <a href="https://www.iti.gr/iti/index.html">ITI/CERTH</a>, exploring automatic Video Summarization via Deep Learning techniques.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 </p> </div>
