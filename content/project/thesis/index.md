@@ -14,6 +14,8 @@ tags:
 - python
 date: "2016-04-27T00:00:00Z"
 
+weight: 1
+
 image:
   caption: BatteryApp system architecture
   focal_point: Smart
