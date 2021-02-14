@@ -14,7 +14,7 @@ organizations:
   url: https://www.auth.gr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning with a healthy pinch of problem solving.
+bio: My research interests include ML with a healthy pinch of problem solving.
 
 # Interests to show in About widget
 interests:
@@ -58,8 +58,10 @@ email: ""
 highlight_name: false
 ---
 
+<div style="text-align: justify"> <p>
 Hi there, my name is George Balaouras and I am curious about everything, especially Data Science, Machine and Deep Learning. Currently, I am part of [MKLab](https://mklab.iti.gr/) research team of [ITI/CERTH](https://www.iti.gr/iti/index.html), exploring automatic Video Summarization via Deep Learning techniques.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+</p> </div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
