@@ -67,5 +67,4 @@ I graduated from <a href="https://www.auth.gr/en">Aristotle University of Thessa
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="quote-left" pack="fas" >}} I'm not scared of a computer passing the turing test... I'm terrified of one that intentionally fails it.
-u/Grandure
-{{< icon name="quote-right" pack="fas" >}}
+<div style="text-align: center"> <i>u/Grandure</i> </div>
