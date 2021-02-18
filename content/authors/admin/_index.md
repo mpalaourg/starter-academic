@@ -61,7 +61,7 @@ highlight_name: false
 <div style="text-align: justify"> <p>
 Hi there, my name is George Balaouras and I am curious about everything, especially Data Science, Machine and Deep Learning. Currently, I am part of <a href="https://mklab.iti.gr/">MKLab</a> research team of <a href="https://www.iti.gr/iti/index.html">ITI/CERTH</a>, exploring automatic Video Summarization via Deep Learning techniques.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I graduated from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a> with a MEng degree in Electrical and Computer Engineering (Grade: 8.80, top 6% @class of 2015). My Diploma Thesis, titled <i>Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques</i>, was held in association with <a href="https://issel.ee.auth.gr/en/13-2/">Intelligent Systems & Software Engineering Labgroup (ISSEL)</a> under the supervision of Professor <a href="https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/">Andreas L. Symeonidis</a> and Post-Doc Researcher <a href="https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/">Manos Tsardoulias</a>.
 </p> </div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
