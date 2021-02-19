@@ -18,7 +18,7 @@ url_video: ""
 ---
 
 <div style="text-align: justify"> <p>
-The goal is to implement the baseline sequential DCT based (Lossy) JPEG encoder and decoder as described by ISO-IEC-10918-1-1993 standard. The major steps in JPEG coding involve:
+The goal is to implement the baseline sequential DCT based (Lossy) JPEG encoder and decoder as described by the ISO-IEC-10918-1-1993 standard. The major steps in JPEG coding involve:
 <ul>
 <li>Pre-processing of the image.
   <ul>
@@ -27,7 +27,7 @@ The goal is to implement the baseline sequential DCT based (Lossy) JPEG encoder 
   </ul></li>
 <li>Samples dissociation.
   <ul>
-  <li>Block [8x8] DCT Transform: Spatial Domain Representation ↔ Frequency Domain Representation</li>
+  <li>Block [8x8] DCT Transform: Spatial Domain Representation ↔ Frequency Domain Representation.</li>
   </ul></li>
 <li>Image compression.
   <ul>
@@ -37,5 +37,5 @@ The goal is to implement the baseline sequential DCT based (Lossy) JPEG encoder 
   </ul></li>
 </ul>
 
-For a more detailed explanation of the steps -in Greek- check the associated pdf file.
+For a more detailed explanation of the steps -in Greek- check the associated PDF file.
 </p> </div>
