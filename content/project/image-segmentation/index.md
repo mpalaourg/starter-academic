@@ -22,7 +22,7 @@ The goal is to represent the input image as a fully connected and non-directiona
 The following techniques will be implemented:
 <ul>
 <li>Spectral Clustering (k clusters). [<a href="https://www.kaggle.com/vipulgandhi/spectral-clustering-detailed-explanation#-Algorithm:-">Algorithm</a>]</li>
-<li>Normalized cuts (k clusters). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Algorithm</a> using k smallest eigenvalues in Step 3]</li> ()
+<li>Normalized cuts (k clusters). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Algorithm</a> using k smallest eigenvalues in Step 3]</li>
 <li>Recursive Normalized cuts (unspecified clusters). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Algorithm</a> using Ncut(A,B) metric]</li>
 </ul>
 </p> </div>
