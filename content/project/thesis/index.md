@@ -17,7 +17,7 @@ date: "2016-04-27T00:00:00Z"
 weight: 1
 
 image:
-  caption: BatteryApp system architecture
+  caption: ""
   focal_point: Smart
 
 url_code: "https://github.com/mpalaourg/Thesis"
