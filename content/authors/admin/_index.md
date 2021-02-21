@@ -18,8 +18,8 @@ bio: My research interests include ML with a healthy pinch of problem solving.
 
 # Interests to show in About widget
 interests:
-- TODO
-- TODO
+- Adversarial machine learning
+- Unsupervised and Self-Supervised learning
 - Embedded Systems
 
 # Education to show in About widget
