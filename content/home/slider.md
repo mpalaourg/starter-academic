@@ -40,7 +40,7 @@ item:
     overlay_img: series.jpg
     overlay_filter: 0.5
   - title: Fun Fact 4
-    content: 'My favorite genre of music is rembetika music!'
+    content: 'My favorite music genre is rembetika music!'
     align: center
     # overlay_color: ''
     overlay_img: music.jpg
