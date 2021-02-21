@@ -17,4 +17,5 @@ content:
   
 design:
   columns: '2'
+  align: center
 ---
