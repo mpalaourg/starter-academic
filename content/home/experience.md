@@ -12,10 +12,6 @@ weight: 40
 title: Experience
 subtitle:
 
-advanced:
-css_style: "text-align: justify !important;"
-css_class: 'card-text'
-
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -32,5 +28,5 @@ experience:
     location: "Thessaloniki, Central Macedonia, Greece"
     date_start: "2021-01-04"
     date_end: ""
-    description: "[1] Our main goal is to generate a concise synopsis that conveys the important parts of a full-length video automatically, either in a supervised or an unsupervised way. More precisely, using an Encoder-Decoder architecture we are trying to model the temporal dependency among video frames and learn how to estimate frames’ importance. Until recently, we were mostly using Recurrent Architectures, like vanilla RNNs and LSTMs, and Generative Adversarial Networks (GANs), where an LSTM-based VAE (Generator) tries to confuse the Discriminator about the originality of the produced summaries. Despite the success of these architectures, problems like limited parallelization and challenging training, led us in exploring Attention Mechanisms and Transformers models for our ongoing works. Finally, all our developments are open-source and based on PyTorch."
+    description: "[2] Our main goal is to generate a concise synopsis that conveys the important parts of a full-length video automatically, either in a supervised or an unsupervised way. More precisely, using an Encoder-Decoder architecture we are trying to model the temporal dependency among video frames and learn how to estimate frames’ importance. Until recently, we were mostly using Recurrent Architectures, like vanilla RNNs and LSTMs, and Generative Adversarial Networks (GANs), where an LSTM-based VAE (Generator) tries to confuse the Discriminator about the originality of the produced summaries. Despite the success of these architectures, problems like limited parallelization and challenging training, led us in exploring Attention Mechanisms and Transformers models for our ongoing works. Finally, all our developments are open-source and based on PyTorch."
 ---
