@@ -36,6 +36,7 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
+custom_css = ["css/custom.css"]
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
