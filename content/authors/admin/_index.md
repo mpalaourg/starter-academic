@@ -18,7 +18,7 @@ bio: My research interests include Computer Vision with a healthy pinch of probl
 
 # Interests to show in About widget
 interests:
-- Generative Adversarial Networks (GANs)
+- Generative Adversarial Networks
 - (Self-)Attention Mechanisms
 - (Un)supervised learning
 - Embedded Systems
