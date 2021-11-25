@@ -104,4 +104,4 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
 # My custom css
 [params]
-    custom_css = ["/static/css/style.css"]
+    custom_css = ["css/style.css"]
