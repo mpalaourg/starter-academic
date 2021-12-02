@@ -8,11 +8,13 @@ widget = pages
 # This file represents a page section.
 headless = true
 
+# Activate this widget? true/false
+active: true
 
 # Order that this section will appear.
 weight = 50
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
