@@ -16,7 +16,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2021-12-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ISM52913.2021.00045"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -46,12 +46,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'media/files/ism2021_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/PGL-SUM'
 url_dataset: ''
 url_poster: ''
 url_project: 'http://multimedia2.iti.gr/videosummarization/service/start.html'
-url_slides: ''
+url_slides: 'media/slides/ism2021_slides.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=LbjPLJzeNII'
 

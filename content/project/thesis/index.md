@@ -21,8 +21,8 @@ image:
   focal_point: Smart
 
 url_code: "https://github.com/mpalaourg/Thesis"
-url_pdf: "media/thesis.pdf"
-url_slides: "media/thesis.pptx"
+url_pdf: "media/files/thesis.pdf"
+url_slides: "media/slides/thesis.pptx"
 url_video: ""
 ---
 

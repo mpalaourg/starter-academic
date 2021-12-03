@@ -65,7 +65,7 @@ Hi there, my name is George Balaouras, and I am curious about everything, especi
 I graduated from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a> with a MEng degree in Electrical and Computer Engineering. My diploma thesis, titled <i>Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques</i>, was held in association with <a href="https://issel.ee.auth.gr/en/13-2/">Intelligent Systems & Software Engineering Labgroup (ISSEL)</a> under the supervision of Professor <a href="https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/">Andreas L. Symeonidis</a> and PostDoc Researcher <a href="https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/">Manos Tsardoulias</a>.
 </p> </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/files/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="quote-left" pack="fas" >}} u/Grandure once said ...
 <div style="text-align: center">
