@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: "Deep Learning Engineer & Researcher Associate"
     company: "Information Technologies Institute"
-    company_url: "https://mklab.iti.gr/"
+    company_url: "http://idt.iti.gr/"
     location: "Thessaloniki, Central Macedonia, Greece"
     date_start: "2021-01-04"
     date_end: ""
