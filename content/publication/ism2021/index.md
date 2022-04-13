@@ -45,7 +45,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-  - name: PwC
+  - name: PapersWithCode
     url: https://tinyurl.com/pgl-sum
 
 url_pdf: 'media/files/ism2021_preprint.pdf'
