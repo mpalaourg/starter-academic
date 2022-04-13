@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 - name: PwC
-  url: 'https://tinyurl.com/pgl-sum'
+  url: 'https://paperswithcode.com/paper/combining-global-and-local-attention-with'
 
 url_pdf: 'media/files/ism2021_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/PGL-SUM'
