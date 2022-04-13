@@ -42,11 +42,11 @@ tags: ["video summarization", "self-attention", "multi-head attention", "positio
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Custom Link
 #   url: http://example.org
-- name: PwC
-  url: 'https://paperswithcode.com/paper/combining-global-and-local-attention-with'
+  - name: PwC
+    url: https://tinyurl.com/pgl-sum
 
 url_pdf: 'media/files/ism2021_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/PGL-SUM'
