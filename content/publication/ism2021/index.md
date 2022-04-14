@@ -1,5 +1,5 @@
 ---
-title: "Combining global and local attention with positional encoding for video summarization"
+title: "Combining Global and Local Attention with Positional Encoding for Video Summarization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
