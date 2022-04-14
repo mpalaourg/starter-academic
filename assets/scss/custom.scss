@@ -2,7 +2,9 @@ body{
     text-align: justify;
     hyphens: auto;
 }
-.article-containter h1 {
-    text-align: justify;
+h1, h2, h3 {
+    hyphens: auto !important;
+}
+.article-containter {
     hyphens: auto !important;
 }
