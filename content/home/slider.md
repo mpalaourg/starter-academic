@@ -40,6 +40,12 @@ item:
     overlay_img: images/series.jpg
     overlay_filter: 0.5
   - title: 'Fun Fact #4'
+    content: 'An F1 superfan!'
+    align: center
+    # overlay_color: ''
+    overlay_img: images/f1.jpg
+    overlay_filter: 0.5
+  - title: 'Fun Fact #5'
     content: 'My favorite music genre is rembetika music!'
     align: center
     # overlay_color: ''
