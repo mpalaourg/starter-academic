@@ -2,3 +2,9 @@ body{
     text-align: justify;
     hyphens: auto;
 }
+h1 {
+    hyphens: auto !important;
+}
+.article-title{
+    text-transform: capitalize;
+}
