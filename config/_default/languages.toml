@@ -11,10 +11,35 @@
 [el]
   languageCode = "el-gr"
   contentDir = "content/el"
+  [[el.menu.main]]
+    name = "Αρχική"
+    url = "#about"
+    weight = 10
+
+  [[el.menu.main]]
+    name = "Επαγγελματική Εμπειρία"
+    url = "#experience"
+    weight = 20
+
+  [[el.menu.main]]
+    name = "Δημοσιεύσεις"
+    url = "#publications"
+    weight = 30
+
+  [[el.menu.main]]
+    name = "Projects"
+    url = "#projects"
+    weight = 40
+
+  [[el.menu.main]]
+    name = "Επικοινωνία"
+    url = "#contact"
+    weight = 50
+
+  [[el.menu.main]]
+    name = "Βιογραφικό"
+    url = "media/files/resume_el.pdf"
+    weight = 60
 #  title = "Chinese website title..."
 #  [zh.params]
 #    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
