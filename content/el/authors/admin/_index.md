@@ -10,24 +10,24 @@ role: Deep Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Aristotle University of Thessaloniki
-  url: https://www.auth.gr/en
+- name: Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης
+  url: https://www.auth.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision with a healthy pinch of problem solving.
+bio: Τα ερευνητικά μου ενδιαφέροντα περιλαμβάνουν μεθόδους επεξεργασίας και ανάλυσης πολυμέσων.
 
 # Interests to show in About widget
 interests:
-- Generative Adversarial Networks
-- (Self-)Attention Mechanisms
-- (Un)supervised learning
-- Embedded Systems
+- Παραγωγικά Ανταγωνιστικά Δίκτυα
+- Μηχανισμοί (Αυτο-)Προσοχής
+- (Μη)επιβλεπόμενη μάθηση
+- Ενσωματωμένα Συστηματα
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Electrical and Computer Engineering
-    institution: Aristotle University of Thessaloniki (AUTh)
+  - course: Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ
+    institution: Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης (ΑΠΘ)
     year: 2020
 
 # Social/Academic Networking
@@ -50,7 +50,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/files/resume.pdf
+  link: media/files/resume_gr.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,13 +60,13 @@ highlight_name: false
 ---
 
 <div style="text-align: justify"> <p>
-Hi there, my name is George Balaouras, and I am curious about everything, especially Data Science, Machine and Deep Learning. Currently, I am part of <a href="http://idt.iti.gr/">IDT LAB</a>, directed by <a href="https://www.iti.gr/~bmezaris/">Vasileios Mezaris</a>, a research team of <a href="https://www.iti.gr/iti/index.html">ITI/CERTH</a>, exploring automatic Video Summarization via Deep Learning techniques.
+Αλόχα, ονομάζομαι Γιώργος Μπαλαούρας, και είμαι περιέργος για τα πάντα, ειδικα την Επιστήμη Δεδομένων, τη Μηχανική και τη Βαθιά Μάθηση. Αυτήν τη στιγμή, είμαι μέλος του <a href="http://idt.iti.gr/">IDT LAB</a>, που διεθύνει ο <a href="https://www.iti.gr/~bmezaris/">Δρ. Βασίλειος Μεζάρης</a>, μια ερευνητική ομάδα του <a href="https://www.iti.gr/iti/index.html">ΕΚΕΤΑ-ΙΠΤΗΛ</a>, και εξερευνώ την αύτοματη δημιουργία περιλήψεων βίντεο με χρήση τεχνικών Βαθιάς Μάθησης.
 
-I graduated from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a> with a MEng degree in Electrical and Computer Engineering. My diploma thesis, titled <i>Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques</i>, was held in association with <a href="https://issel.ee.auth.gr/en/13-2/">Intelligent Systems & Software Engineering Labgroup (ISSEL)</a> under the supervision of Professor <a href="https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/">Andreas L. Symeonidis</a> and PostDoc Researcher <a href="https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/">Manos Tsardoulias</a>.
+Αποφοίτησα από το <a href="https://www.auth.gr">Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης</a> με Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ. Η διπλωματικη μου εργασία, με τίτλο <i>Συλλογή και Ανάλυση Δεδομένων Κατανάλωσης Ενέργειας Κινητών Τηλεφώνων με Χρήση Τεχνικών Μηχανικής Μάθησης</i>, πραγματοποιήθηκε σε συνεργασία με την ομάδα <a href="https://issel.ee.auth.gr/">Ευφυών Συστημάτων και Τεχνολογίας Λογισμικού (ISSEL)</a> υπό την επίβλεψη του Αναπληρωτή Καθηγητή <a href="https://issel.ee.auth.gr/proswpiko/andreas-l-symeonidis/">Ανδρέα Λ. Συμεωνίδη</a> και του Μεταδιδακτορικού Ερευνητή <a href="https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/">Μάνο Τσαρδούλια</a>.
 </p> </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/files/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Κατέβασε το {{< staticref "media/files/resume_gr.pdf" "newtab" >}}Βιογραφικό{{< /staticref >}} μου.
 
-{{< icon name="quote-left" pack="fas" >}} u/Grandure once said ...
+{{< icon name="quote-left" pack="fas" >}} Ο χρήστης <a href="https://tinyurl.com/reddit-turing-test">u/Grandure</a> κάποτε είπε ...
 <div style="text-align: center">
-<i>I'm not scared of a computer passing the Turing test... I'm terrified of one that intentionally fails it. </i> </div>
+<i>Δε με φοβίζει ένας υπολογιστης που θα περάσει το τεστ του Turing... Τρέμω εκείνον που εσκεμμένα θα αποτύχει. </i> </div>
