@@ -45,15 +45,19 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-  - name: PapersWithCode
+  - name: Διαφάνειες
+    url: https://mpalaourg.me/media/slides/ism2021_slides.pptx
+  - name: Project
+    url: http://multimedia2.iti.gr/videosummarization/service/start.html  
+  - name: Papers With Code
     url: https://tinyurl.com/pgl-sum
 
 url_pdf: 'media/files/ism2021_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/PGL-SUM'
 url_dataset: ''
 url_poster: ''
-url_project: 'http://multimedia2.iti.gr/videosummarization/service/start.html'
-url_slides: 'media/slides/ism2021_slides.pptx'
+url_project: ''
+url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=LbjPLJzeNII'
 
