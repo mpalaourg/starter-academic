@@ -5,15 +5,15 @@ title: "Combining Global and Local Attention with Positional Encoding for Video 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Evlampios Apostolidis
+- Ευλάμπιος Αποστολίδης
 - admin
-- Vasileios Mezaris
-- Ioannis Patras
+- Βασίλειος Μεζάρης
+- Ιωάννης Πάτρας
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Ίση συνεισφορά"
+- "Ίση συνεισφορά"
 
 date: "2021-12-01T00:00:00Z"
 doi: "10.1109/ISM52913.2021.00045"
@@ -28,13 +28,13 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Int. Symposium on Multimedia (ISM) 2021*
-publication_short: In *ISM2021*
+publication: Στο *IEEE Int. Symposium on Multimedia (ISM) 2021*
+publication_short: Στο *ISM2021*
 
-abstract: This paper presents a new method for supervised video summarization. To overcome drawbacks of existing RNN-based summarization architectures, that relate to the modeling of long-range frames' dependencies and the ability to parallelize the training process, the developed model relies on the use of self-attention mechanisms to estimate the importance of video frames. Contrary to previous attention-based summarization approaches that model the frames' dependencies by observing the entire frame sequence, our method combines global and local multi-head attention mechanisms to discover different modelings of the frames' dependencies at different levels of granularity. Moreover, the utilized attention mechanisms integrate a component that encodes the temporal position of video frames - this is of major importance when producing a video summary. Experiments on two datasets (SumMe and TVSum) demonstrate the effectiveness of the proposed model compared to existing attention-based methods, and its competitiveness against other state-of-the-art supervised summarization approaches. An ablation study that focuses on our main proposed components, namely the use of global and local multi-head attention mechanisms in collaboration with an absolute positional encoding component, shows their relative contributions to the overall summarization performance.
+abstract: Αυτή η εργασία παρουσιάζει μια νέα μέθοδο για την εποπτευόμενη δημιουργία περιλήψεων βίντεο. Για να ξεπεραστούν τα μειονεκτήματα υφιστάμενων αρχιτεκτονικών δημιουργίας περιλήψεων που βασίζονται σε RNNs, σχετικά με τη μοντελοποίηση των εξαρτήσεων μεγάλης εμβέλειας των καρέ και την ικανότητα παραλληλοποίησης της εκπαίδευσης, το αναπτυγμένο μοντέλο βασίζεται στη χρήση μηχανισμών αυτοπροσοχής για την εκτίμηση της σημασίας των καρέ του βίντεο. Σε αντίθεση με προηγούμενες προσεγγίσεις δημιουργίας περιλήψεων που βασίζονται στην αυτοπροσοχή για να μοντελοποιούν τις εξαρτήσεις των καρέ παρατηρώντας ολόκληρη την αλληλουχία καρέ, η μέθοδός μας συνδυάζει καθολικούς και τοπικούς μηχανισμούς αυτοπροσοχής πολλαπλών κεφαλών για να ανακαλύψει διαφορετικές μοντελοποιήσεις των εξαρτήσεων των καρέ σε διαφορετικά επίπεδα λεπτομέρειας. Επιπλέον, οι χρησιμοποιούμενοι μηχανισμοί αυτοπροσοχής ενσωματώνουν ένα δομικό στοιχείο που κωδικοποιεί τη χρονική θέση των καρέ - μείζονος σημασίας κατά την παραγωγή μιας σύνοψης. Πειράματα σε δύο σύνολα δεδομένων (SumMe και TVSum) καταδεικνύουν την αποτελεσματικότητα του προτεινόμενου μοντέλου σε σύγκριση με τις υπάρχουσες μεθόδους αυτοπροσοχής και την ανταγωνιστικότητά του έναντι άλλων state-of-the-art εποπτευόμενων προσεγγίσεων δημιουργίας περιλήψεων. Μια μελέτη αφαίρεσης που εστιάζει στα κύρια προτεινόμενα δομικά στοιχεία, ειδικότερα τη χρήση καθολικών και τοπικών μηχανισμών αυτοπροσοχής πολλαπλών κεφαλών σε συνεργασία με ένα τμήμα κωδικοποίησης της απόλυτης θέσης, δείχνει τη σχετική συνεισφορά τους στη συνολική απόδοση.
 
 # Summary. An optional shortened abstract.
-summary: Α supervised self-attention-based method for automated video summarization.
+summary: Μια εποπτευόμενη μέθοδος αυτόματης δημιουργίας περιλήψεων βίντεο, βασισμένη στην αυτοπροσοχή.
 
 tags: ["video summarization", "self-attention", "multi-head attention", "positional encoding", "supervised learning"]
 

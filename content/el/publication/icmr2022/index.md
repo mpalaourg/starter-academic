@@ -5,15 +5,15 @@ title: "Summarizing Videos Using Concentrated Attention and Considering the Uniq
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Evlampios Apostolidis
+- Ευλάμπιος Αποστολίδης
 - admin
-- Vasileios Mezaris
-- Ioannis Patras
+- Βασίλειος Μεζάρης
+- Ιωάννης Πάτρας
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Ίση συνεισφορά"
+- "Ίση συνεισφορά"
 
 date: ""
 doi: ""
@@ -28,13 +28,13 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Int. Conference on Multimedia Retrieval 2022*
-publication_short: In *ICMR2022*
+publication: Στο *ACM Int. Conference on Multimedia Retrieval 2022*
+publication_short: Στο *ICMR2022*
 
-abstract: In this work, we describe a new method for unsupervised video summarization. To overcome limitations of existing unsupervised video summarization approaches, that relate to the unstable training of Generator-Discriminator architectures, the use of RNNs for modeling long-range frames' dependencies and the ability to parallelize the training process of RNN-based network architectures, the developed method relies solely on the use of a self-attention mechanism to estimate the importance of video frames. Instead of simply modeling frames' dependencies based on global attention, our method integrates a concentrated attention mechanism that is able to focus on non-overlapping blocks in the main diagonal of the attention matrix, and to enrich the existing information by extracting and exploiting knowledge about the uniqueness and diversity of the associated frames of the video. In this way, our method makes better estimates about the significance of different parts of the video, and drastically reduces the number of learnable parameters. Experimental evaluations using two benchmarking datasets (SumMe and TVSum) show the competitiveness of the proposed method against other state-of-the-art unsupervised summarization approaches, and demonstrate its ability to produce video summaries that are very close to the human preferences. An ablation study that focuses on the introduced components, namely the use of concentrated attention in combination with attention-based estimates about the frames' uniqueness and diversity, shows their relative contributions to the overall summarization performance.
+abstract: Σε αυτήν την εργασία, περιγράφουμε μια καινούργια μέθοδο για τη δημιουργία περιλήψεων βίντεο χωρίς επίβλεψη. Για να ξεπεραστούν οι περιορισμοί των υφιστάμενων προσεγγίσεων δημιουργίας περιλήψεων χωρίς επίβλεψη, σχετικά με την ασταθή εκπαίδευση των Generator-Discriminator αρχιτεκτονικών, τη χρήση RNNs για τη μοντελοποίηση εξαρτήσεων μεγάλης εμβέλειας των καρέ και την ικανότητα παραλληλοποίησης της εκπαίδευσης αρχιτεκτονικών που βασίζονται σε RNNs, η μέθοδος μας βασίζεται αποκλειστικά στη χρήση ενός μηχανισμού αυτοπροσοχής για την εκτίμηση της σπουδαιότητας των καρέ του βίντεο. Αντί να μοντελοποιούμε απλώς τις εξαρτήσεις των καρέ με βάση την καθολική προσοχή, η μέθοδός μας ενσωματώνει έναν μηχανισμό συγκεντρωμένης προσοχής που είναι σε θέση να εστιάζει σε μη επικαλυπτόμενα μπλοκ στην κύρια διαγώνιο του πίνακα προσοχής και να εμπλουτίζει την υπάρχουσα πληροφορία εξάγοντας και αξιοποιώντας γνώση σχετικά με τη μοναδικότητα και την ποικιλομορφία των σχετικών καρέ του βίντεο. Με αυτόν τον τρόπο, η μέθοδός μας κάνει καλύτερες εκτιμήσεις σχετικά με τη σημαντικότητα διαφορετικών τμημάτων του βίντεο και μειώνει δραστικά τον αριθμό των παραμέτρων του δικτύου. Πειραματικές αξιολογήσεις που χρησιμοποιούν δύο σύνολα δεδομένων (SumMe και TVSum) δείχνουν την ανταγωνιστικότητα της προτεινόμενης μεθόδου έναντι άλλων state-of-the-art προσεγγίσεων δημιουργίας περιλήψεων χωρίς επίβλεψη και καταδεικνύουν την ικανότητά της να παράγει περιλήψεις βίντεο που είναι πολύ κοντά στις ανθρώπινες προτιμήσεις. Μια μελέτη αφαίρεσης που επικεντρώνεται στα προτεινόμενα δομικά στοιχεία, ειδικότερα τη χρήση της συγκεντρωμένης προσοχής σε συνδυασμό με εκτιμήσεις σχετικά με τη μοναδικότητα και την ποικιλομορφία των πλαισίων, δείχνει τη σχετική συνεισφορά τους στη συνολική απόδοση.
 
 # Summary. An optional shortened abstract.
-summary: An unsupervised self-attention-based method for automated video summarization.
+summary: Μια μη εποπτευόμενη μέθοδος αυτόματης δημιουργίας περιλήψεων βίντεο, βασισμένη στην αυτοπροσοχή.
 
 tags: ["video summarization", "self-attention", "concentrated attention", "unsupervised learning", "transductive inference"]
 

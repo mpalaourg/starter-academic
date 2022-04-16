@@ -11,6 +11,8 @@
 [el]
   languageCode = "el-gr"
   contentDir = "content/el"
+  title = "Γεώργιος Μπαλαούρας"
+  copyright = "Τελευταία ενημέρωση Απρ 2022"
   [[el.menu.main]]
     name = "Αρχική"
     url = "#about"
@@ -38,8 +40,12 @@
 
   [[el.menu.main]]
     name = "Βιογραφικό"
-    url = "media/files/resume_el.pdf"
+    url = "media/files/resume_gr.pdf"
     weight = 60
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
+
+  [el.params]
+    address = {city = "Θεσσαλονίκη", postcode = "54641", country = "Ελλάδα", country_code = "GR"}
+
+  [el.params]
+    contact_links = [{icon = "github", icon_pack = "fab", name = "Περισσότερα project μου", link = "https://github.com/mpalaourg"},
+                     {icon = "linkedin", icon_pack = "fab", name = "Ας συνδεθούμε", link = "https://www.linkedin.com/in/georgebalaouras/"}]
