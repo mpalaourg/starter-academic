@@ -1,4 +1,2 @@
-[Present]
-    other = "Σήμερα"
-[Conference paper]
-    other = "Εργασία Συνεδρίου"
+Present = "Σήμερα"
+"Conference paper" = "Εργασία Συνεδρίου"
