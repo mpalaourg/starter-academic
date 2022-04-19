@@ -1,3 +1,4 @@
-[home]
-Present = "Σήμερα"
-"Conference paper" = "Εργασία Συνεδρίου"
+[Present]
+    other = "Σήμερα"
+[Conference paper]
+    other = "Εργασία Συνεδρίου"
