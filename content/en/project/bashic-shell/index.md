@@ -18,15 +18,15 @@ url_slides: ""
 url_video: ""
 ---
 
-The goal is to create my own simplistic Unix shell in C. Where,
+The goal is to create my own simplistic Unix shell in C, where
 
 - cd, help and quit are handled as Built-In functions.
   - For other functions, type ```@function_name @arguments```. If you need more info, type ```man @function_name```.
 - **Improper space handle**.
-- **Redirection with > handle**.
-- **Redirection with < handle**.
+- **Redirection with >**.
+- **Redirection with <**.
 - Two modes supported:
   - **Interactive**, when no arguments are given.
-  - **Batch**, when 1 (one) argument (file) is given.
+  - **Batch**, when one argument (file) is given.
 
 For a more detailed description of the functionality, check [here](https://github.com/mpalaourg/OperatingSystems_MyBash#operating-systems-final-assignment-auth-2018).

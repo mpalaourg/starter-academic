@@ -44,6 +44,6 @@
     weight = 60
 
   [el.params]
-    address = {city = "Θεσσαλονίκη", postcode = "54641, Ελλάδα", country = "Ελλάδα", country_code = "GR"}
+    address = {city = "Θεσσαλονίκη", postcode = "Ελλάδα", country = "Ελλάδα", country_code = "GR"}
     contact_links = [{icon = "github", icon_pack = "fab", name = "Περισσότερα project μου", link = "https://github.com/mpalaourg"},
                      {icon = "linkedin", icon_pack = "fab", name = "Ας συνδεθούμε", link = "https://www.linkedin.com/in/georgebalaouras/"}]

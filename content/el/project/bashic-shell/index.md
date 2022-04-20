@@ -1,6 +1,6 @@
 ---
 title: Bash-ic shell
-summary: My version of Linux Bash Shell.
+summary: Η υλοποίηση μου για το Bash Shell των Linux.
 tags:
 - bash
 - terminal
@@ -18,15 +18,15 @@ url_slides: ""
 url_video: ""
 ---
 
-The goal is to create my own simplistic Unix shell in C. Where,
+Ο στόχος είναι η υλοποίηση μιας απλουστευμένης εκδοχής του Unix shell στη C, όπου
 
-- cd, help and quit are handled as Built-In functions.
-  - For other functions, type ```@function_name @arguments```. If you need more info, type ```man @function_name```.
-- **Improper space handle**.
-- **Redirection with > handle**.
-- **Redirection with < handle**.
-- Two modes supported:
-  - **Interactive**, when no arguments are given.
-  - **Batch**, when 1 (one) argument (file) is given.
+- οι εντολές cd, help και quit αντιμετωπίζονται ως Built-In συναρτήσεις.
+  - Για άλλες εντολές, πληκτρολογήστε ```@function_name @arguments```. Για περισσότερες πληροφορίες, πληκτρολογήστε ```man @function_name```.
+- **Διαχείριση περιττών κενών**.
+- **Ανακατεύθυνση μέσω >**.
+- **Ανακατεύθυνση μέσω <**.
+- Υποστήριξη δύο λειτουργιών:
+  - **Διαδραστική**, όταν δε δίνεται όρισμα εισόδου.
+  - **Μαζική εκτέλεση**, όταν δίνεται ένα όρισμα εισόδου (αρχείο).
 
-For a more detailed description of the functionality, check [here](https://github.com/mpalaourg/OperatingSystems_MyBash#operating-systems-final-assignment-auth-2018).
+Για μια πιο λεπτομερή περιγραφή της λειτουργίας, δείτε [εδώ](https://github.com/mpalaourg/OperatingSystems_MyBash#operating-systems-final-assignment-auth-2018).

@@ -1,6 +1,6 @@
 ---
 title: Image Segmentation
-summary: Ιmplementation of basic image segmentation techniques.
+summary: Υλοποίηση βασικών τεχνικών τμηματοποίησης εικόνων.
 tags:
 - multimedia
 - MATLAB
@@ -17,12 +17,12 @@ url_video: ""
 ---
 
 <div style="text-align: justify"> <p>
-The goal is to represent the input image as a fully connected and non-directional graph, and partitioned into multiple sets of segments that share some common characteristics such as color or intensity.
+Ο στόχος είναι η αναπαράσταση εικόνων ως πλήρη συνδεδεμένο και μη κατευθυντικό γράφο, και ο διαχωρισμός τους σε πολλαπλά τμήματα που μοιράζονται ορισμένα κοινά χαρακτηριστικά, όπως το χρώμα ή η ένταση.
 
-The following techniques will be implemented:
+Υλοποιήθηκαν οι εξής τεχνικές:
 <ul>
-<li>Spectral Clustering (k clusters). [<a href="https://www.kaggle.com/vipulgandhi/spectral-clustering-detailed-explanation#-Algorithm:-">Algorithm</a>]</li>
-<li>Normalized cuts (k clusters). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Algorithm</a> using the k smallest eigenvalues in Step 3]</li>
-<li>Recursive Normalized cuts (unspecified clusters). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Algorithm</a> using Ncut(A, B) metric]</li>
+<li>Spectral Clustering (k συστάδες). [<a href="https://www.kaggle.com/vipulgandhi/spectral-clustering-detailed-explanation#-Algorithm:-">Αλγόριθμος</a>]</li>
+<li>Normalized cuts (k συστάδες). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=4">Αλγόριθμος</a> χρησιμοποιώντας τις k μικρότερες ιδιοτιμές στο Βήμα 3]</li>
+<li>Recursive Normalized cuts (Απροσδιόριστος αρ. συστάδων). [<a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf#page=6">Αλγόριθμος</a> χρησιμοποιώντας τη μετρική Ncut(A, B)]</li>
 </ul>
 </p> </div>
