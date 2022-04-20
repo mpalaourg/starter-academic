@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Deep Learning Engineer & Researcher Assistant"
-    company: "Information Technologies Institute"
+  - title: "Βοηθός Έρευνας"
+    company: "Ινστιτούτο Τεχνολογιών Πληροφορικής και Επικοινωνιών"
     company_url: "http://idt.iti.gr/"
-    location: "Thessaloniki, Central Macedonia, Greece"
+    location: "Θεσσαλονίκη, Κεντρική Μακεδονία, Ελλάδα"
     date_start: "2021-01-04"
     date_end: ""
-    description: "Our main goal is to generate a concise synopsis that conveys the important parts of a full-length video automatically, either in a supervised or an unsupervised way. More precisely, using an Encoder-Decoder architecture we are trying to model the temporal dependency among video frames and learn how to estimate frames’ importance. Until recently, we were mostly using Recurrent Architectures, like vanilla RNNs and LSTMs, and Generative Adversarial Networks (GANs), where an LSTM-based VAE (Generator) tries to confuse the Discriminator about the originality of the produced summaries. Despite the success of these architectures, problems like limited parallelization and challenging training, led us in exploring Attention Mechanisms and Transformers models for our ongoing works. Finally, all our developments are open-source and based on PyTorch."
+    description: "Ο κύριος στόχος μας είναι να δημιουργήσουμε μια περιεκτική σύνοψη που μεταφέρει αυτόματα τα σημαντικά μέρη ενός βίντεο, με ή χωρίς επίβλεψη. Πιο συγκεκριμένα, χρησιμοποιώντας Encoder-Decoder αρχιτεκτονικές στοχεύουμε στη μοντελοποίηση της χρονικής εξάρτησης μεταξύ των καρέ ενός βίντεο, και στην εκτίμηση της σημασίας τους. Μέχρι πρόσφατα, χρησιμοποιούσαμε ως επί το πλείστον Recurrent Αρχιτεκτονικές, όπως RNNs και LSTMs, και Adversarial Learning Αρχιτεκτονικές (GANs), όπου ένα VAE βασισμένο σε LSTMs (Generator) προσπαθεί να μπερδέψει τον Discriminator σχετικά με την πρωτοτυπία των παραγόμενων περιλήψεων. Παρά την επιτυχία αυτών των αρχιτεκτονικών, προβλήματα όπως η περιορισμένη παραλληλοποίηση και η δύσκολη εκπαίδευση τους μας οδήγησαν στην εξερεύνηση των μοντέλων Αυτο-Προσοχής (Transformers) για τις τρέχουσες και επόμενες εργασίες μας. Τέλος, όλες οι υλοποιησεις μας είναι open-source και βασίζονται στο PyTorch."
 ---

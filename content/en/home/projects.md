@@ -31,7 +31,7 @@ content:
     tag: machine learning
   - name: Multimedia
     tag: multimedia
-  - name: Low level programming
+  - name: Programming in C
     tag: C 
 
 design:

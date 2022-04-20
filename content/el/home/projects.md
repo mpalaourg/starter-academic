@@ -25,14 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Όλα
     tag: '*'
-  - name: Machine Learning
+  - name: Μηχανική Μάθηση
     tag: machine learning
-  - name: Multimedia
+  - name: Πολυμέσα
     tag: multimedia
-  - name: Low level programming
-    tag: C 
+  - name: Προγραμματισμός σε C
+    tag: C
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
