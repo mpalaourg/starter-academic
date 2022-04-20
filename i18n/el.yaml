@@ -1,0 +1,154 @@
+- id: toggle_navigation
+  translation: Εναλλαγή πλοήγησης
+- id: table_of_contents
+  translation: Πίνακας περιεχομένων
+- id: on_this_page
+  translation: Σε αυτή τη σελίδα
+- id: back_to_top
+  translation: Επιστροφή στην κορυφή
+- id: home
+  translation: Αρχική
+- id: close
+  translation: Κλείσιμο
+- id: languages
+  translation: Γλώσσες
+- id: related
+  translation: Σχετικά
+- id: minute_read
+  translation: λεπτά διαβάσματος
+- id: previous
+  translation: Προηγούμενο
+- id: next
+  translation: Επόμενο
+- id: figure
+  translation: 'Σχήμα %d:'
+- id: edit_page
+  translation: Επεξεργαστείτε αυτήν τη σελίδα
+- id: theme_selector
+  translation: Εμφάνιση προτιμήσεων
+- id: theme_light
+  translation: Ανοιχτόχρωμο
+- id: theme_dark
+  translation: Σκούρο
+- id: theme_auto
+  translation: Αυτόματα
+- id: btn_preprint
+  translation: Preprint
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Cite
+- id: btn_slides
+  translation: Διαφάνειες
+- id: btn_video
+  translation: Βίντεο
+- id: btn_code
+  translation: Κώδικας
+- id: btn_dataset
+  translation: Σύνολο Δεδομένων
+- id: btn_project
+  translation: Project
+- id: btn_poster
+  translation: Conference Poster
+- id: btn_source
+  translation: Πηγαίος κώδικας
+- id: btn_copy
+  translation: Αντιγραφή
+- id: btn_download
+  translation: Λήψη
+- id: interests
+  translation: Ενδιαφέροντα
+- id: education
+  translation: Εκπαίδευση
+- id: user_profile_latest
+  translation: Νεότερα
+- id: see_certificate
+  translation: Προβολή πιστοποιητικού
+- id: present
+  translation: Σήμερα
+- id: more_pages
+  translation: Προβολή όλων
+- id: more_posts
+  translation: Περισσότερες αναρτήσεις
+- id: more_talks
+  translation: Περισσότερες ομιλίες
+- id: more_publications
+  translation: Περισσότερες δημοσιεύσεις
+- id: contact_name
+  translation: Όνομα
+- id: contact_email
+  translation: Email
+- id: contact_message
+  translation: Μήνυμα
+- id: contact_send
+  translation: Αποστολή
+- id: book_appointment
+  translation: Κλείσε ένα ραντεβού
+- id: abstract
+  translation: Περίληψη
+- id: publication
+  translation: Δημοσίευση
+- id: publication_type
+  translation: Τύπος
+- id: date
+  translation: Ημερομηνία
+- id: last_updated
+  translation: Τελευταία ενημέρωση
+- id: event
+  translation: Συμβάν
+- id: location
+  translation: Τοποθεσία
+- id: pub_uncat
+  translation: Χωρίς κατηγορία
+- id: pub_conf
+  translation: Εργασία συνεδρίου
+- id: pub_journal
+  translation: Άρθρο περιοδικού
+- id: pub_preprint
+  translation: Προ-δημοσίευση
+- id: pub_report
+  translation: Αναφορά
+- id: pub_book
+  translation: Βιβλίο
+- id: pub_book_section
+  translation: Ενότητα βιβλίου
+- id: pub_thesis
+  translation: Διατριβή
+- id: pub_patent
+  translation: Πατέντα
+- id: open_project_site
+  translation: Προς ιστοσελίδα ερευνητικού προγράμματος
+- id: posts
+  translation: Αναρτήσεις
+- id: publications
+  translation: Δημοσιεύσεις
+- id: talks
+  translation: Ομιλίες
+- id: projects
+  translation: Ερευνητικά προγράμματα
+- id: slides
+  translation: Διαφάνειες
+- id: authors
+  translation: Συγγραφείς
+- id: search
+  translation: Αναζήτηση
+- id: search_placeholder
+  translation: Αναζήτηση...
+- id: search_results
+  translation: Βρέθηκαν αποτελέσματα
+- id: search_no_results
+  translation: Δε βρέθηκαν αποτελέσματα
+- id: search_common_queries
+  translation: Συχνές αναζητήσεις
+- id: page_not_found
+  translation: Η ιστοσελίδα δεν βρέθηκε
+- id: 404_recommendations
+  translation: Μήπως ψάχνατε για μια από αυτές;
+- id: cookie_message
+  translation: Αυτή η ιστοσελίδα χρησιμοποιεί cookies για να διασφαλίσει ότι θα έχετε την καλύτερη δυνατή εμπειρία πλοήγησης.
+- id: cookie_dismiss
+  translation: Ενημερώθηκα!
+- id: cookie_learn
+  translation: Μάθε περισσότερα
+- id: published_with
+  translation: Δημοσιεύτηκε με το {wowchemy} — το δωρεάν πρόγραμμα δημιουργίας ιστοσελίδων {repo_link}ανοικτού κώδικα{/repo_link} που ενισχύει τους δημιουργούς.
