@@ -1,6 +1,6 @@
 ---
 title: JPEG
-summary: Implementation of JPEG standard (ISO/IEC 109181:1994).
+summary: Υλοποίηση προτύπου JPEG (ISO/IEC 109181:1994).
 tags:
 - image compression
 - multimedia
@@ -17,25 +17,15 @@ url_slides: ""
 url_video: ""
 ---
 
-<div style="text-align: justify"> <p>
-The goal is to implement the baseline sequential DCT based (Lossy) JPEG encoder and decoder as described by the ISO-IEC-10918-1-1993 standard. The major steps in JPEG coding involve:
-<ul>
-<li>Pre-processing of the image.
-  <ul>
-  <li>RGB ↔ YCbCr conversion.</li>
-  <li>Subsampling 4:4:4, 4:2:2 and 4:2:0.</li>
-  </ul></li>
-<li>Samples dissociation.
-  <ul>
-  <li>Block [8x8] DCT Transform: Spatial Domain Representation ↔ Frequency Domain Representation.</li>
-  </ul></li>
-<li>Image compression.
-  <ul>
-  <li>Block [8x8] Quantization and De-Quantization.</li>
-  <li>Run-length calculation.</li>
-  <li>Huffman coding.</li>
-  </ul></li>
-</ul>
+Ο στόχος είναι η υλοποίηση του κωδικοποιητή και αποκωδικοποιητή JPEG (με απώλεια πληροφορίας), που βασίζονται στον Διακριτό Μετασχηματισμό Συνημιτόνου (ΔΜΣ), όπως περιγράφεται από το πρότυπο ISO-IEC-10918-1-1993. Τα κύρια βήματα στην κωδικοποίηση JPEG περιλαμβάνουν:
+- Προ-επεξεργασία εικόνας
+  - Μετατροπή RGB ↔ YCbCr
+  - Υποδειγματοληψία 4:4:4, 4:2:2 και 4:2:0
+- Αποσυσχέτιση δειγμάτων
+  - Μπλοκ \[8x8\] ΔΜΣ: Χωρική αναπαράσταση ↔ Συχνοτική αναπαράσταση
+- Συμπίεση εικόνας
+  - Μπλοκ \[8x8\] Κβαντισμός και Αποκβαντισμός
+  - Υπολογισμός Μηκών Διαδρομής (Runlength)
+  - Κωδικοποίηση Huffman
 
-For a more detailed explanation of the steps -in Greek- check the associated PDF file.
-</p> </div>
+Για μια πιο λεπτομερή εξήγηση των βημάτων δείτε το αρχείο PDF.
