@@ -13,6 +13,7 @@
   contentDir = "content/el"
   title = "Γεώργιος Μπαλαούρας"
   copyright = "© 2021 - Σήμερα Γεώργιος Μπαλαούρας"
+  date_format = "2 Jan 2006"
   [[el.menu.main]]
     name = "Αρχική"
     url = "#about"
