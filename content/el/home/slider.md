@@ -25,30 +25,30 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: ''  # An HTML color value.
-    overlay_img: en/images/coffee.jpg  # Image path relative to your `static/media/` folder
+    overlay_img: images/coffee.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
   - title: 'Fun Fact #2'
     content: 'Λατρεύω τα ταξίδια και να επισκέπτομαι νέα μέρη!'
     align: center
     # overlay_color: ''
-    overlay_img: en/images/travel.jpg
+    overlay_img: images/travel.jpg
     overlay_filter: 0.5
   - title: 'Fun Fact #3'
     content: 'Netflix - Clubs σημειώσατε 1!'
     align: center
     # overlay_color: ''
-    overlay_img: en/images/series.jpg
+    overlay_img: images/series.jpg
     overlay_filter: 0.5
   - title: 'Fun Fact #4'
     content: 'Φανατικός οπαδός της F1!'
     align: center
     # overlay_color: ''
-    overlay_img: en/images/f1.jpg
+    overlay_img: images/f1.jpg
     overlay_filter: 0.5
   - title: 'Fun Fact #5'
     content: 'Ρεμπέτης σε λάθος εποχή!'
     align: center
     # overlay_color: ''
-    overlay_img: en/images/music.jpg
+    overlay_img: images/music.jpg
     overlay_filter: 0.5
 ---
