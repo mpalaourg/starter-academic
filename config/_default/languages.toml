@@ -5,7 +5,6 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  baseurl = "https://mpalaourg.me/"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
@@ -13,31 +12,30 @@
   languageCode = "el"
   contentDir = "content/el"
   title = "Γεώργιος Μπαλαούρας"
-  baseurl = "https://mpalaourg.me/"
   copyright = "Τελευταία ενημέρωση Απρ 2022"
   [[el.menu.main]]
     name = "Αρχική"
-    url = "el/#about"
+    url = "#about"
     weight = 10
 
   [[el.menu.main]]
     name = "Επαγγελματική Εμπειρία"
-    url = "el/#experience"
+    url = "#experience"
     weight = 20
 
   [[el.menu.main]]
     name = "Δημοσιεύσεις"
-    url = "el/#publications"
+    url = "#publications"
     weight = 30
 
   [[el.menu.main]]
     name = "Projects"
-    url = "el/#projects"
+    url = "#projects"
     weight = 40
 
   [[el.menu.main]]
     name = "Επικοινωνία"
-    url = "el/#contact"
+    url = "#contact"
     weight = 50
 
   [[el.menu.main]]
