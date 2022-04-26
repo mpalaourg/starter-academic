@@ -12,7 +12,7 @@
   languageCode = "el"
   contentDir = "content/el"
   title = "Γεώργιος Μπαλαούρας"
-  copyright = "Τελευταία ενημέρωση Απρ 2022"
+  copyright = "© 2021 - Σήμερα Γεώργιος Μπαλαούρας"
   [[el.menu.main]]
     name = "Αρχική"
     url = "#about"
