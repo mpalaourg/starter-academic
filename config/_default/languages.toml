@@ -40,7 +40,7 @@
 
   [[el.menu.main]]
     name = "Βιογραφικό"
-    url = "media/files/resume_gr.pdf"
+    url = "el/media/files/resume_gr.pdf"
     weight = 60
 
   [el.params]

@@ -50,7 +50,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/files/resume_gr.pdf
+  link: el/media/files/resume_gr.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,7 +65,7 @@ highlight_name: false
 Αποφοίτησα από το <a href="https://www.auth.gr">Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης</a> με Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ. Η διπλωματικη μου εργασία, με τίτλο <i>Συλλογή και Ανάλυση Δεδομένων Κατανάλωσης Ενέργειας Κινητών Τηλεφώνων με Χρήση Τεχνικών Μηχανικής Μάθησης</i>, πραγματοποιήθηκε σε συνεργασία με την ομάδα <a href="https://issel.ee.auth.gr/">Ευφυών Συστημάτων και Τεχνολογίας Λογισμικού (ISSEL)</a> υπό την επίβλεψη του Αναπληρωτή Καθηγητή <a href="https://issel.ee.auth.gr/proswpiko/andreas-l-symeonidis/">Ανδρέα Λ. Συμεωνίδη</a> και του Μεταδιδακτορικού Ερευνητή <a href="https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/">Μάνο Τσαρδούλια</a>.
 </p> </div>
 
-{{< icon name="download" pack="fas" >}} Κατέβασε το {{< staticref "media/files/resume_gr.pdf" "newtab" >}}Βιογραφικό{{< /staticref >}} μου.
+{{< icon name="download" pack="fas" >}} Κατέβασε το {{< staticref "el/media/files/resume_gr.pdf" "newtab" >}}Βιογραφικό{{< /staticref >}} μου.
 
 {{< icon name="quote-left" pack="fas" >}} Ο χρήστης <a href="https://tinyurl.com/reddit-turing-test">u/Grandure</a> κάποτε είπε ...
 <div style="text-align: center">

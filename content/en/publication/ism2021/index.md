@@ -48,12 +48,12 @@ links:
   - name: Papers With Code
     url: https://tinyurl.com/pgl-sum
 
-url_pdf: 'media/files/ism2021_preprint.pdf'
+url_pdf: 'en/media/files/ism2021_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/PGL-SUM'
 url_dataset: ''
 url_poster: ''
 url_project: 'http://multimedia2.iti.gr/videosummarization/service/start.html'
-url_slides: 'media/slides/ism2021_slides.pptx'
+url_slides: 'en/media/slides/ism2021_slides.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=LbjPLJzeNII'
 

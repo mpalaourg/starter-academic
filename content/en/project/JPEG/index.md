@@ -12,7 +12,7 @@ image:
   focal_point: Smart
 
 url_code: "https://github.com/mpalaourg/Multimedia"
-url_pdf: "media/files/jpeg.pdf"
+url_pdf: "el/media/files/jpeg.pdf"
 url_slides: ""
 url_video: ""
 ---
