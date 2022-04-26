@@ -12,30 +12,31 @@
   languageCode = "el"
   contentDir = "content/el"
   title = "Γεώργιος Μπαλαούρας"
+  baseurl = "https://mpalaourg.me/"
   copyright = "Τελευταία ενημέρωση Απρ 2022"
   [[el.menu.main]]
     name = "Αρχική"
-    url = "#about"
+    url = "el/#about"
     weight = 10
 
   [[el.menu.main]]
     name = "Επαγγελματική Εμπειρία"
-    url = "#experience"
+    url = "el/#experience"
     weight = 20
 
   [[el.menu.main]]
     name = "Δημοσιεύσεις"
-    url = "#publications"
+    url = "el/#publications"
     weight = 30
 
   [[el.menu.main]]
     name = "Projects"
-    url = "#projects"
+    url = "el/#projects"
     weight = 40
 
   [[el.menu.main]]
     name = "Επικοινωνία"
-    url = "#contact"
+    url = "el/#contact"
     weight = 50
 
   [[el.menu.main]]
