@@ -1,5 +1,5 @@
 ---
-title: "Summarizing Videos Using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames"
+title: "Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,7 +7,7 @@ title: "Summarizing Videos Using Concentrated Attention and Considering the Uniq
 authors:
 - Ευλάμπιος Αποστολίδης
 - admin
-- Βασίλης Μεζάρης
+- Βασίλειος Μεζάρης
 - Ιωάννης Πάτρας
 
 # Author notes (optional)

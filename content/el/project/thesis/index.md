@@ -1,6 +1,6 @@
 ---
 title: Thesis
-summary: Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques
+summary: Συλλογή και Ανάλυση Δεδομένων Κατανάλωσης Ενέργειας Κινητών Τηλεφώνων με Χρήση Τεχνικών Μηχανικής Μάθησης
 tags:
 - battery
 - battery monitor
@@ -26,29 +26,25 @@ url_slides: "media/slides/thesis.pptx"
 url_video: ""
 ---
 
-<div style="text-align: justify"> <p>
-In a modern-day society, there is the consensus that smartphones have a dominant role in everyday life. By just pressing a button, someone can not only get up to speed with the current events on a global scale, but also get in touch with people all over the world and find various forms of entertainment. In particular, one of the features that makes smartphones so attractive is the portability they offer, since they utilize batteries. However, batteries have a certain amount of charges in their disposal, consequently the lifespan of a device is directly correlated to its utilization, as well as its charging strategy.
+Στη σύγχρονη εποχή είναι αδιαμφισβήτητη πραγματικότητα πως τα «έξυπνα» κινητά τηλέφωνα αποτελούν κυρίαρχο στοιχείο της ζωής του ανθρώπου. Με το πάτημα ενός κουμπιού μπορεί κάποιος να ενημερωθεί για τις εξελίξεις παγκοσμίως, να επικοινωνήσει με άτομα από την άλλη άκρη του πλανήτη και να ψυχαγωγηθεί. Ειδικότερα, κύριος πόλος έλξης τους αποτελεί η φορητότητα τους, η οποία κατέστη δυνατή μέσω της αξιοποίησης των μπαταριών. Ωστόσο, αυτές διαθέτουν συγκεκριμένο αριθμό επαναφορτίσεων και συνεπώς, η διάρκεια ζωής μιας συσκευής εξαρτάται άμεσα από τον τύπο χρήσης της και τη στρατηγική επαναφόρτισης της.
 
-The current thesis focuses on the analysis of mobile phones’ usage and the prediction of the battery’s energy drain. To begin with, for data collection the application [BatteryApp](https://play.google.com/store/apps/details?id=gr.auth.ee.issel.batteryapp), which periodically keeps record of the device’s usage and the battery information, was developed. The next step is the grouping of similar uses of devices through Hierarchical Clustering, which does not require an a priori selection for a specific cluster number and does not set limitations regarding the chosen distance function. After that, it was assessed based on its content in order to select the clusters with the higher information value. Lastly, the prediction of the energy drain was constructed by employing a simple linear model, two variants of linear regression, where the penalty concept is introduced (Ridge and Lasso Regression), and a non-linear model, which belongs to the Ensemble Learning category (eXtreme Gradient Boosted trees), with the parameters’ learning procedure being applied to each selected cluster individually.
-</p> </div>
+Η παρούσα διπλωματική εργασία ασχολείται με την ανάλυση της χρήσης των κινητών τηλεφώνων και την εκτίμηση της κατανάλωσης ενέργειας (energy drain) της μπαταρίας τους. Αρχικά, για τη συλλογή των δεδομένων αναπτύχθηκε η εφαρμογή [BatteryApp](https://play.google.com/store/apps/details?id=gr.auth.ee.issel.batteryapp), η οποία περιοδικά καταγράφει τις λειτουργίες της συσκευής και τις πληροφορίες της μπαταρίας. Στη συνέχεια, ακολουθεί η ομαδοποίηση (clustering) όμοιων τύπων χρήσεων των συσκευών μέσω της ιεραρχικής ομαδοποίησης, η οποία δεν επιβάλει την εξ’ αρχής (apriori) επιλογή συγκεκριμένου αριθμού ομάδων και δεν εισάγει περιορισμούς στη συνάρτηση απόστασης που θα επιλεχθεί. Έπειτα, αυτή αξιολογείται ως προς το περιεχόμενό της, έτσι ώστε να επιλεγούν εκείνες οι ομάδες που περιέχουν την περισσότερη πληροφορία. Τέλος, για την εκτίμηση του energy drain, χρησιμοποιήθηκαν ένα απλό γραμμικό μοντέλο, δύο παραλλαγές της γραμμικής παλινδρόμησης, όπου εισάγεται η έννοια της ποινής (Ridge και Lasso Regression), και ένα μη γραμμικό μοντέλο, που ανήκει στην κατηγορία του Ensemble Learning (eXtreme Gradient Boosted trees), με τη διαδικασία μάθησης των παραμέτρων να πραγματοποιείται σε κάθε μια από τις επιλεγμένες ομάδες ξεχωριστά.
 
-## **App Description**
+## **Περιγραφή Εφαρμογής**
 
-<div style="text-align: justify"> <p>
-As part of my Thesis, I have developed the Android application BatteryApp, which during its operation collects data from the mobile phone’s usage and the battery status at regular intervals. The data collected is anonymous, as during the installation of the app you will be assigned a unique user code. The information collected is:
-</p> </div>
+Στο πλαίσιο της διπλωματικής μου εργασίας, ανέπτυξα την Android εφαρμογή BatteryApp, η οποία κατά τη λειτουργία της συλλέγει δεδομένα, ανά τακτά χρονικά διαστήματα, για τη χρήση του κινητού τηλεφώνου και την κατάσταση της μπαταρίας. Τα δεδομένα που συλλέγονται είναι ανώνυμα, καθώς κατά την εγκατάσταση της εφαρμογής θα σας ανατεθεί ένα μοναδικό αναγνωριστικό χρήστη. Οι πληροφορίες που συλλέγονται είναι οι εξής:
 
-- The unique ID that distinguishes you from other users.
-- The level, temperature, voltage, technology, status (charge/discharge), health (good/overheating) of the battery.
-- CPU usage.
-- If Wi-Fi, Cellular Data, Bluetooth, Hotspot, GPS [^1] of the mobile are activated.
-- The available RAM.
-- The screen brightness level.
-- If the phone is interactive (screen is turned on or off).
-- Sampling frequency.
-- The model of the mobile and the android version.
-- The percentage remaining in the battery capacity.
-- The Timestamp of each sample.
+- Το μοναδικό αναγνωριστικό χρήστη
+- Επίπεδο, θερμοκρασία, τάση, τεχνολογία, κατάσταση (φόρτιση/εκφόρτιση) και υγεία (καλή/υπερθέρμανση) της μπαταρίας
+- Χρήση του επεξεργαστή
+- Αν τα Wi-Fi, Δεδομένα, Bluetooth, Hotspot, και GPS [^1] είναι ενεργοποιημένα
+- Διαθέσιμη μνήμη RAM
+- Φωτεινότητα της οθόνης
+- Αλληλεπίδραση με τη συσκευή (αναμμένη οθόνη ή όχι)
+- Συχνότητα δειγματοληψίας
+- Μοντέλο της συσκευής και την έκδοση του Android
+- Ποσοστό χωρητικότητας που απομένει στην μπαταρία
+- Χρόνος λήψης του δείγματος
 
-For a more detailed description, check [here](https://github.com/mpalaourg/Thesis#raw-data-variables).
-[^1]: *Only if it is enabled, your location will NOT be logged.*
+Για μια πιο λεπτομερή περιγραφή, δείτε [εδώ](https://github.com/mpalaourg/Thesis#raw-data-variables).
+[^1]: *Μόνο αν είναι ενεργοποιημένο, η τοποθεσία σας ΔΕΝ καταγράφεται*

@@ -32,4 +32,4 @@ url_video: ""
   - Μέθοσος quasi Newton (Τύπος Davidon–Fletcher–Powell) \[[Αλγόριθμος](https://www.stat.cmu.edu/~ryantibs/convexopt-F13/lectures/11-QuasiNewton-AnnotatedOnClass.pdf#page=21)\]
 - Εύρεση ελαχίστου συνάρτησης παρουσία περιορισμών \[2-Δ\]
   - Μέθοδος Μέγιστης Καθόδου, με και χωρίς περιορισμούς \[[Αλγόριθμος](https://www.cs.ccu.edu.tw/~wtchu/courses/2015s_OPT/Lectures/Chapter%2023%20Algorithms%20for%20Constrained%20Optimization.pdf#page=2)\]
-- Γενετικός Αλγόριθμος: Προσέγγιση άγνωστης συνεχούς συνάρτησης \[2-Δ\].
+- Γενετικός Αλγόριθμος: Προσέγγιση άγνωστης συνεχούς συνάρτησης \[2-Δ\]

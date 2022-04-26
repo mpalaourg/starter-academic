@@ -1,6 +1,6 @@
 ---
 title: Pi Messenger
-summary: Communicate with other devices (Raspberry Pi 0) through WiFi using minimum energy possible.
+summary: Επικοινωνία συσκευών (Raspberry Pi 0) μέσω Wi-Fi χρησιμοποιώντας την ελάχιστη δυνατή ενέργεια.
 tags:
 - Raspberry Pi 0
 - embedded systems
@@ -19,10 +19,8 @@ url_slides: ""
 url_video: ""
 ---
 
-<div style="text-align: justify"> <p>
-The goal is to communicate with other devices (Raspberry Pi 0), through Wi-Fi to exchange messages. Each device will represent a node in the communication network and will be responsible for generating and sending new messages, but also for forwarding messages to others so that the information is transmitted to all devices and eventually the message will be delivered to its recipient.
+Ο στόχος είναι η επικοινωνία με άλλες συσκευές (Raspberry Pi 0), μέσω Wi-Fi για την ανταλλαγή μηνυμάτων. Κάθε συσκευή θα αντιπροσωπεύει έναν κόμβο στο δίκτυο επικοινωνίας και θα είναι υπεύθυνη για τη δημιουργία και την αποστολή νέων μηνυμάτων, αλλά και για τη διαβίβαση μηνυμάτων σε άλλους έτσι ώστε οι πληροφορίες να μεταδίδονται σε όλες τις συσκευές και τελικά το εκάστοτε μήνυμα να παραδοθεί στον παραλήπτη του.
 
-The characteristics of the project required a two-way, simultaneous communication between the devices. Thus a <b>TCP Connection</b> was used, with the <b>Server</b> and the <b>Client</b> running in parallel on different <b>threads</b>. Furthermore, an additional thread was used to create messages, the <b>Creator</b>. The access that all functions had to the same resource -such as files- made it necessary to use <b>mutexes</b>, so that each resource is locked and unlocked by the same thread, i.e. to be used by a single thread at a time.
+Η λειτουργικότητα του project απαιτούσε μια αμφίδρομη, αλλά συνάμα ταυτόχρονη επικοινωνία μεταξύ των συσκευών. Έτσι χρησιμοποιήθηκε μια **TCP σύνδεση**, μεταξύ του **Server** και του **Client** που εκτελείται παράλληλα σε διαφορετικά **νήματα**. Επιπλέον, χρησιμοποιήθηκε ένα πρόσθετο νήμα για τη δημιουργία μηνυμάτων, ο **Creator**. Η πρόσβαση των συναρτήσεων στους ίδιους πόρους - π.χ. αρχεία - οδήγησε στη χρήση **μεταβλητών αμοιβαίου αποκλεισμού**, έτσι ώστε ο κάθε πόρος να κλειδώνεται και να ξεκλειδώνεται από το ίδιο νήμα, και να χρησιμοποιείται από ένα και μόνο νήμα κάθε στιγμή.
 
-The Server Thread waits in Passive Mode for devices to connect and process the messages it receives. In addition, to save energy, the Client Thread does not try to send continuously, but at regular intervals of 1 min. When it "wakes up", it checks which devices in the list are active and sends them all the messages it owes, then moves on to the next device. Finally, to create the new messages, an interrupt was set and connected to the Creator Thread (to avoid waking up the Client), with the interrupt time being randomly selected at the time of the Creator's creation between 1 and 5 minutes and is stable from there on.
-</p> </div>
+Το νήμα του Server περιμένει, σε παθητική λειτουργία, τις συσκευές να συνδεθούν και να επεξεργαστεί τα μηνύματα που λαμβάνει. Επιπλέον, για να εξοικονομηθεί ενέργεια, το νήμα του Client δε στέλνει συνεχώς μηνύματα, αλλά σε τακτά χρονικά διαστήματα του 1 λεπτού. Όταν "ξυπνήσει", ελέγχει ποιες συσκευές στη λίστα είναι ενεργές, στέλνει όλα τα μηνύματα που τις οφείλει, και στη συνέχεια μετακινείται στην επόμενη συσκευή. Τέλος, για τη δημιουργία των νέων μηνυμάτων, ρυθμίστηκε μια διακοπή και συνδέθηκε με το νήμα του Creator (για να μην επηρεάζει τον Client), με τον χρόνο διακοπής να επιλέγεται τυχαία τη στιγμή της δημιουργίας του Creator μεταξύ 1 και 5 λεπτών και έπειτα είναι σταθερό.

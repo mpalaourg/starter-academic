@@ -7,7 +7,7 @@ title: "Combining Global and Local Attention with Positional Encoding for Video 
 authors:
 - Ευλάμπιος Αποστολίδης
 - admin
-- Βασίλης Μεζάρης
+- Βασίλειος Μεζάρης
 - Ιωάννης Πάτρας
 
 # Author notes (optional)
