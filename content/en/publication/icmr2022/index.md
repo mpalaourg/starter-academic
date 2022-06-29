@@ -53,7 +53,7 @@ url_code: 'https://github.com/e-apostolidis/CA-SUM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'en/media/slides/icmr2022_slides.pptx'
 url_source: ''
 url_video: 'https://dl.acm.org/doi/10.1145/3512527.3531404#sec-supp'
 
