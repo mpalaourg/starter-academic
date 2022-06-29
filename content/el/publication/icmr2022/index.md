@@ -15,8 +15,8 @@ author_notes:
 - "Ίση συνεισφορά"
 - "Ίση συνεισφορά"
 
-date: ""
-doi: ""
+date: "2022-06-27T00:00:00Z"
+doi: "10.1145/3512527.3531404"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -42,18 +42,21 @@ tags: ["video summarization", "self-attention", "concentrated attention", "unsup
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+# Custom links (uncomment lines below)
+links:
 # - name: Custom Link
 #   url: http://example.org
+  - name: Papers With Code
+    url: https://tinyurl.com/icmr2022-ca-sum
 
-url_pdf: ''
+url_pdf: 'en/media/files/icmr2022_preprint.pdf'
 url_code: 'https://github.com/e-apostolidis/CA-SUM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://dl.acm.org/doi/10.1145/3512527.3531404#sec-supp'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
