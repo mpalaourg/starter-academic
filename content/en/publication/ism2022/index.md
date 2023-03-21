@@ -5,15 +5,15 @@ title: "Explaining video summarization based on the focus of attention"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Ευλάμπιος Αποστολίδης
+- Evlampios Apostolidis
 - admin
-- Βασίλειος Μεζάρης
-- Ιωάννης Πάτρας
+- Vasileios Mezaris
+- Ioannis Patras
 
 # Author notes (optional)
 author_notes:
-- "Ίση συνεισφορά"
-- "Ίση συνεισφορά"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2022-12-06T00:00:00Z"
 doi: "10.1109/ISM55400.2022.00029"
@@ -28,13 +28,13 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Στο *IEEE Int. Symposium on Multimedia (ISM) 2022*
-publication_short: Στο *ISM2022*
+publication: In *IEEE Int. Symposium on Multimedia (ISM) 2022*
+publication_short: In *ISM2022*
 
-abstract: Σε αυτό το άρθρο προτείνουμε μια μέθοδο για την επεξήγηση της περίληψης ενός βίντεο. Ξεκινάμε διατυπώνοντας το πρόβλημα ως τη δημιουργία μιας μάσκας επεξήγησης που υποδεικνύει τα μέρη του βίντεο που επηρέασαν περισσότερο τις εκτιμήσεις ενός δικτύου περίληψης βίντεο, σχετικά με τη σημασία των καρέ του. Στη συνέχεια, εξηγούμε πώς μπορεί να χρησιμοποιηθεί ο τυπικός αγωγός ανάλυσης δικτύων περίληψης βίντεο που βασίζονται στην αυτοπροσοχή για τον καθορισμό σημάτων επεξήγησης, και εξετάζουμε διάφορα σήματα που βασίζονται στην προσοχή που έχουν μελετηθεί ως επεξηγήσεις στον τομέα του NLP. Αξιολογούμε την απόδοση αυτών των σημάτων διερευνώντας τη σχέση εισόδου-εξόδου του δικτύου περίληψης βίντεο σύμφωνα με διαφορετικές συναρτήσεις αντικατάστασης, και χρησιμοποιώντας μετρικές που ποσοτικοποιούν την ικανότητα των επεξηγήσεων να εντοπίσουν τα μέρη ενός βίντεο με τη μεγαλύτερη και τη μικρότερη επιρροή. Εκτελούμε πειράματα χρησιμοποιώντας ένα δίκτυο που βασίζεται στην αυτοπροσοχή (CA-SUM) και δύο σύνολα δεδομένων (SumMe και TVSum). Οι αξιολογήσεις μας υποδεικνύουν την προχωρημένη απόδοση των επεξηγήσεων που σχηματίζονται χρησιμοποιώντας τα εγγενή βάρη προσοχής, και καταδεικνύουν την ικανότητα της μεθόδου μας να εξηγεί τα αποτελέσματα της περίληψης βίντεο χρησιμοποιώντας ενδείξεις σχετικά με την εστίαση του μηχανισμού προσοχής.
+abstract: In this paper we propose a method for explaining video summarization. We start by formulating the problem as the creation of an explanation mask which indicates the parts of the video that influenced the most the estimates of a video summarization network, about the frames' importance. Then, we explain how the typical analysis pipeline of attention-based networks for video summarization can be used to define explanation signals, and we examine various attention-based signals that have been studied as explanations in the NLP domain. We evaluate the performance of these signals by investigating the video summarization network’s input-output relationship according to different replacement functions, and utilizing measures that quantify the capability of explanations to spot the most and least influential parts of a video. We run experiments using an attention-based network (CA-SUM) and two datasets (SumMe and TVSum) for video summarization. Our evaluations indicate the advanced performance of explanations formed using the inherent attention weights, and demonstrate the ability of our method to explain the video summarization results using clues about the focus of the attention mechanism.
 
 # Summary. An optional shortened abstract.
-summary: Μέθοδος για την επεξήγηση της περίληψης ενός βίντεο.
+summary: A method for explaining video summarization.
 
 tags: ["explainable ai", "video summarization", "self-attention", "concentrated attention", "ca-sum", "evaluation metrics"]
 
