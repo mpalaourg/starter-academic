@@ -6,7 +6,7 @@ title: Γεώργιος Μπαλαούρας
 superuser: true
 
 # Role/position/tagline
-role: Deep Learning Engineer
+role: Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
