@@ -35,14 +35,19 @@
     weight = 40
 
   [[el.menu.main]]
+    name = "Formula 1®"
+    url = "#formula"
+    weight = 50
+
+  [[el.menu.main]]
     name = "Επικοινωνία"
     url = "#contact"
-    weight = 50
+    weight = 60
 
   [[el.menu.main]]
     name = "Βιογραφικό"
     url = "el/media/files/resume_gr.pdf"
-    weight = 60
+    weight = 70
 
   [el.params]
     address = {city = "Θεσσαλονίκη", postcode = "Ελλάδα", country = "Ελλάδα", country_code = "GR"}
