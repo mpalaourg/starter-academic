@@ -1,5 +1,5 @@
 ---
-title: Lewis Hamilton's record breaking year
+title: Lewis's record breaking year
 summary: Under construction!
 tags:
 - lewis-hamilton

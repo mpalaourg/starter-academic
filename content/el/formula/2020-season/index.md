@@ -1,5 +1,5 @@
 ---
-title: Lewis Hamilton's record breaking year
+title: Lewis's record breaking year
 summary: Under construction!
 tags:
 - lewis-hamilton
@@ -18,4 +18,4 @@ url_video: ""
 
 2020 Season analysis under construction ...
 
-_Note: The data is compiled from the F1 Developer API: http://ergast.com/mrd/. Formula One retains all rights to the data used in this analysis. The analysis is intended solely for educational purposes and not for commercial use._
+_Note: Σημείωση: Τα δεδομένα συλλέγονται από το F1 Developer API: http://ergast.com/mrd/. Η Formula One διατηρεί όλα τα δικαιώματα των δεδομένων που χρησιμοποιούνται σε αυτήν την ανάλυση. Η ανάλυση προορίζεται αποκλειστικά για εκπαιδευτικούς σκοπούς και όχι για εμπορική χρήση._
