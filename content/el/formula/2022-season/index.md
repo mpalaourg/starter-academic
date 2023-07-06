@@ -1,6 +1,6 @@
 ---
 title: Max Verstappen a double F1 World Champion
-summary: Under construction!
+summary: Κυριαρχία της Red Bull, λάθη από την Ferrari, ο Max εξασφαλίζει τον 2ο τίτλο του.
 tags:
 - max-verstappen
 - charles-leclerc

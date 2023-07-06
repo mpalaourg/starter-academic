@@ -1,6 +1,6 @@
 ---
 title: Lewis's record breaking year
-summary: Under construction!
+summary: Απαιτητική season, Covid-19 εναντίον θεατών, έβδομος τίτλος για τον Hamilton.
 tags:
 - lewis-hamilton
 - formula1

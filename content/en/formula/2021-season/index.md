@@ -1,6 +1,6 @@
 ---
 title: A new F1 World Champion
-summary: Under construction!
+summary: Intense battles, Verstappen vs Hamilton, Max clinches his first championship.
 tags:
 - max-verstappen
 - lewis-hamilton

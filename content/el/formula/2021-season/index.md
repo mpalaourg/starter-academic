@@ -1,6 +1,6 @@
 ---
 title: A new F1 World Champion
-summary: Under construction!
+summary:  Έντονες μάχες, Verstappen εναντίον Hamilton, ο Max κατακτά τον πρώτο τίτλο του.
 tags:
 - max-verstappen
 - lewis-hamilton

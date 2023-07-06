@@ -1,6 +1,6 @@
 ---
 title: Lewis's record breaking year
-summary: Under construction!
+summary: Challenging season, Covid-19 limiting spectators, Hamilton's seventh title.
 tags:
 - lewis-hamilton
 - formula1
