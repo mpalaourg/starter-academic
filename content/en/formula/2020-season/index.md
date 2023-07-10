@@ -48,20 +48,21 @@ Among the 17 tracks, **Lewis Hamilton** stands out with the highest number of wi
 Furthermore, pole-sitters successfully defended their positions in 10 different tracks, with **Hamilton** leading the way with 8 successful defenses. Additionally, in 5 tracks, the race winners also set the fastest lap, earning the maximum available points. Notably, **Pierre Gasly**'s victory came from the 10th position on the starting grid, following a red flag and a penalty that reshuffled the field. Finally, the **Bahrain GP** saw an extraordinary moment when [**Romain Grosjean**'s horrific accident](https://www.youtube.com/watch?v=7YMjw2sjXqU) occurred on lap 1, leading to a red flag that halted the race for more than 1 hour before eventually resuming and reaching the chequered flag after nearly 3 hours.
 <img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2020-Season/imgs/race_winners.png" alt="2020_race-winners" class="center">
 
-## Fastest Laps
----
+In addition to the race winner, the second and third-place drivers complete the podium. As shown below, a total of 13 different drivers from 7 teams achieved podium finishes. **Scuderia Ferrari** had a challenging season with 3 podium finishes, reflecting a below-par performance compared to their historical standards. Moreover, it is worth mentioning that **Albon, Norris, Gasly**, and **Ocon** celebrated their first Formula 1 podium achievements.
+<img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2020-Season/imgs/podium_finishes.png" alt="2020_podium-finishes" class="center">
 
-## Podium Finishes
----
+Finishing inside the top 10 secures points for a racing weekend. As indicated below, 20 different drivers scored at least one point-finish. **Hamilton** achieved an impressive 16 point-finishes in 17 races (excluding the **Sakhir GP**), where **George Russell**'s point finish for **Mercedes AMG Petronas** made **Williams** the only non-scoring team in the 2020 Constructor grid. Additionally, **Nico Hülkenberg** secured top 10 finishes in two out of the three races he competed in for **Racing Point**, but his pursuit of a podium continues, holding the record for the most Grand Prix starts without a podium.
+<img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2020-Season/imgs/point_finishes.png" alt="2020_point-finishes" class="center">
 
-## Point Finishes
----
+One additional point is awarded to the driver who sets the fastest lap while finishing within the top 10 positions. All the drivers mentioned below deserved this accolade by maintaining their position within the required range. Once again, **Hamilton** takes the top spot with an impressive six fastest laps to his name. Following closely behind, **Verstappen** achieved this feat in three different races, showcasing his exceptional speed and skill on the track.
+<img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2020-Season/imgs/fastest_laps.png" alt="2020_fastest-lap" class="center">
+
+In Formula 1, retirements due to mistakes or mechanical issues are inevitable. Throughout the 2020 season, a total of DNFs was noted, with 6 being attributed to accidents, 12 to collisions between drivers, and the remaining retirements stemming from mechanical issues, particularly power unit or engine failures. Notably, **Kevin Magnussen** experienced the highest number of retirements, with 7 in total. **Stroll** and **Verstappen** shared the second spot with 5 DNFs each. It is worth highlighting **Verstappen**'s exceptional performance, as he achieved 11 podium finishes in 12 completed races, showcasing his consistent top-three results whenever he completed a race.
+<img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2020-Season/imgs/dnfs.png" alt="2020_dnfs" class="center">
 
 ## Point Progression and Final Standings
 ---
 
-## DNFs
----
 
 # Conclusions
 ---
