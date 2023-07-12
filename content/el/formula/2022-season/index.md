@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: Smart
 
-url_code: ""
+url_code: "https://github.com/mpalaourg/F1_DataAnalysis/blob/main/2022-Season/Season%20Analysis.ipynb"
 url_pdf: ""
 url_slides: ""
 url_video: ""

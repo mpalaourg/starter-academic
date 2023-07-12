@@ -39,8 +39,10 @@ The 2022 Formula 1 grid featured 10 teams and 22 drivers, including 2 reserve dr
 
 # 2022 Season analysis
 ---
+This season showcased a variety of winners, with five different drivers claiming victories, many of them starting from favorable grid positions. Notable triumphs included **George Russell**'s first win at the **Brazilian Grand Prix**, which was also the only win for **Mercedes** this year, and **Carlos Sainz**'s maiden Formula 1 victory in **Silverstone**. **Max Verstappen** stood out with an impressive 15 wins, including remarkable performances such as starting from P14 in the **Belgian Grand Prix**, P10 in **Hungary**, and P7 in **Monza**. **Charles Leclerc** secured three wins, two of which came in the opening three races of the season. **Sergio Perez** celebrated two wins, both on street circuits, at the **Monaco** and **Singapore** Grand Prix, showcasing his skill in navigating challenging tracks.
 <img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2022-Season/imgs/race_winners.png" alt="2022_race-winners" class="center">
 
+Standing on the podium is a rewarding moment for drivers and their teams, symbolizing their hard work and achievements. It is evident from the image below that **Max Verstappen** secured the most podium finishes with 17, showcasing his consistent performances throughout the season. **Charles Leclerc** and **Sergio Perez** followed behind with 11 podiums each. **Carlos Sainz, Lewis Hamilton**, and **George Russell** also featured prominently in the standings, demonstrating their strong performances. Notably, **Lando Norris** stood out with a podium finish at the **Emilia Romagna Grand Prix**, capitalizing on a late-race mistake from **Charles Leclerc** that cost him the third-place position. 
 <img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2022-Season/imgs/podium_finishes.png" alt="2022_podium-finishes" class="center">
 
 <img src="https://raw.githubusercontent.com/mpalaourg/F1_DataAnalysis/main/2022-Season/imgs/point_finishes.png" alt="2022_point-finishes" class="center">
