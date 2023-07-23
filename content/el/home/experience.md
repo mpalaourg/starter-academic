@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: "Βοηθός Έρευνας"
-    company: "Ινστιτούτο Τεχνολογιών Πληροφορικής και Επικοινωνιών"
+    company: "Εργαστήριο Ευφυούς Ψηφιακού Μετασχηματισμού (ΕΚΕΤΑ - ΙΠΤΗΛ)"
     company_url: "http://idt.iti.gr/"
     location: "Θεσσαλονίκη, Κεντρική Μακεδονία, Ελλάδα"
     date_start: "2021-01-04"

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: "Deep Learning Engineer & Researcher Assistant"
-    company: "Information Technologies Institute"
+    company: "Intelligent Digital Transformation Laboratory (CERTH - ITI)"
     company_url: "http://idt.iti.gr/"
     location: "Thessaloniki, Central Macedonia, Greece"
     date_start: "2021-01-04"
