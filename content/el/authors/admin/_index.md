@@ -6,7 +6,7 @@ title: Γεώργιος Μπαλαούρας
 superuser: true
 
 # Role/position/tagline
-role: Software Developer
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
