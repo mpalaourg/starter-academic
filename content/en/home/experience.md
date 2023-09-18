@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: "Data Scientist"
+    company: "EY"
+    company_url: "https://www.ey.com/en_gr"
+    location: "Thessaloniki, Central Macedonia, Greece"
+    date_start: "2023-09-04"
+    date_end: ""
+    description: ""
+
   - title: "Deep Learning Engineer & Researcher Assistant"
     company: "Intelligent Digital Transformation Laboratory (CERTH - ITI)"
     company_url: "http://idt.iti.gr/"

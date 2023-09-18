@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi there, my name is George Balaouras, and I am curious about everything, especially Data Science, Machine and Deep Learning. ~~Currently, I am fulfilling my mandatory military service.~~ **Done** ✅
+Hi, I'm Georgios Balaouras, and my unsatisfied curiosity fuels my deep interest in Data Science, Machine Learning, and Deep Learning. Starting this September, I've taken on the role of a Data Scientist, becoming a member of the CESA Data & Analytics Center of Excellence at EY.
 
 I graduated from [Aristotle University of Thessaloniki](https://www.auth.gr/en) with a MEng degree in Electrical and Computer Engineering. My diploma thesis, titled *Data Collection and Analysis of Energy Consumption of Mobile Phones using Machine Learning Techniques*, was held in association with [Intelligent Systems & Software Engineering Labgroup (ISSEL)](https://issel.ee.auth.gr/en/13-2/) under the supervision of Professor [Andreas L. Symeonidis](https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/) and PostDoc Researcher [Manos Tsardoulias](https://issel.ee.auth.gr/staff/emmanouil-manos-tsardoulias/). Furthermore, I was part of [IDT LAB](http://idt.iti.gr/), directed by [Vasileios Mezaris](https://www.iti.gr/~bmezaris/), a research team of [CERTH-ITI](https://www.iti.gr/iti/en/home/), exploring automatic Video Summarization via Deep Learning techniques in collaboration with [Evlampios Apostolidis](https://www.iti.gr/iti/en/people/apostolidis-evlampios/). Our research work resulted in two publications within the Video Summarization domain, using self-attention mechanisms to produce complete and concise synopsis of the video content.
 
